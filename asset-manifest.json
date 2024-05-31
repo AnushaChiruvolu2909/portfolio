@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e90095fa.css",
+    "main.js": "/portfolio/static/js/main.6702da9d.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/profilepicture2.jpg": "/portfolio/static/media/profilepicture2.7ea1975fad4df2864d02.jpg",
+    "static/media/profilepicture.jpg": "/portfolio/static/media/profilepicture.c28c0aa85fea5990e3c6.jpg",
+    "static/media/ehr-your-way.png": "/portfolio/static/media/ehr-your-way.23628470c781f2642cb2.png",
+    "static/media/Anusha Chiruvolu Resume.docx": "/portfolio/static/media/Anusha Chiruvolu Resume.bbbb799402291446ad5c.docx",
+    "static/media/salesforce.jpg": "/portfolio/static/media/salesforce.c45a8f6ac96fdea10fb7.jpg",
+    "static/media/logo-infosys.png": "/portfolio/static/media/logo-infosys.4a7fe8432d55840ed0d1.png",
+    "index.html": "/portfolio/index.html",
+    "main.e90095fa.css.map": "/portfolio/static/css/main.e90095fa.css.map",
+    "main.6702da9d.js.map": "/portfolio/static/js/main.6702da9d.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90095fa.css",
+    "static/js/main.6702da9d.js"
+  ]
+}
