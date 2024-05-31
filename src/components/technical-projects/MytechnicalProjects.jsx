@@ -10,6 +10,11 @@ const MytechnicalProjects = () => {
     <section id='myprojects'>
 
       <h2>WORK EXPERIENCE</h2>
+
+      <div className="container portfolio__container">
+
+        
+        
         <article className='portfolio__item'>
             <div className="portfolio__item-image">
                 <img src={IMG4} alt=""  style={{height:"161px"}}/>
@@ -40,8 +45,6 @@ const MytechnicalProjects = () => {
             </div>
               
         </article>
-        <div className="container portfolio__container">
-
         <article className='portfolio__item'>
             <div className="portfolio__item-image">
                 <img src={ehryourway} alt="" style={{height:"161px"}} />
@@ -58,6 +61,7 @@ const MytechnicalProjects = () => {
             </div>
               
         </article>
+        
       </div>
     </section>
   )
