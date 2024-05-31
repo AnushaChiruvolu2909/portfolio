@@ -10,42 +10,6 @@ const MytechnicalProjects = () => {
     <section id='myprojects'>
 
       <h2>WORK EXPERIENCE</h2>
-
-      <div className="container portfolio__container">
-
-        <article className='portfolio__item'>
-            <div className="portfolio__item-image">
-                <img src={ehryourway} alt="" style={{height:"161px"}} />
-            </div>
-            <h3 style={{fontSize:"17px"}}>KJ Systems Pvt Ltd., Hyderabad, India</h3>
-            <small className='text-light' style={{fontSize:"15px"}}>Front End Developer & UI/UX Designer  </small><br/>
-            <small className='text-light'>Project 1: EHR Your Way <br/>Client: Medical Office Solutions  </small><br/>
-            <small className='text-light'>Project 2: APIT Portal Application <br/>Client: Andhra Pradesh Government   </small>
-
-            <div className="portfolio__item-cta">
-                <label style={{fontSize:"14px"}}>
-            More Details of this work can be found on my resume 
-            </label>
-              {/* <a href="https://github.com/himani413/FashionGallery" target="_blank" rel='noreferrer' className='btn'>Github</a> */}
-            </div>
-              
-        </article>
-        <article className='portfolio__item'>
-            <div className="portfolio__item-image">
-                <img src={infosys} alt="" style={{height:"161px"}} />
-            </div>
-            <h3 style={{fontSize:"17px"}}>Infosys Pvt. Ltd, Hyderabad, India </h3>
-            <small className='text-light' style={{fontSize:"15px"}}>Senior Front-End Developer / UI Specialist  </small><br/>
-            <small className='text-light'>Project :ARCH Insurance <br/>Client: Arch Cap Group  </small><br/>
-
-            <div className="portfolio__item-cta" style={{marginTop: "87px"}}>
-                <label style={{fontSize:"14px"}}>
-            More Details of this work can be found on my resume 
-            </label>
-              {/* <a href="https://github.com/himani413/FashionGallery" target="_blank" rel='noreferrer' className='btn'>Github</a> */}
-            </div>
-              
-        </article>
         <article className='portfolio__item'>
             <div className="portfolio__item-image">
                 <img src={IMG4} alt=""  style={{height:"161px"}}/>
@@ -61,18 +25,39 @@ const MytechnicalProjects = () => {
              </div>
             
         </article>
-        {/* <article className='portfolio__item'>
+        <article className='portfolio__item'>
             <div className="portfolio__item-image">
-                <img src={IMG3} alt="" />
+                <img src={infosys} alt="" style={{height:"161px"}} />
             </div>
-            <h3>My Resume</h3>
-            <small className='text-light'>HTML | CSS | JS | Bootstrap</small>
+            <h3 style={{fontSize:"17px"}}>Infosys Pvt. Ltd, Hyderabad, India </h3>
+            <small className='text-light' style={{fontSize:"15px"}}>Senior Front-End Developer / UI Specialist  </small><br/>
+            <small className='text-light'>Project :ARCH Insurance <br/>Client: Arch Cap Group  </small><br/>
+
+            <div className="portfolio__item-cta" style={{marginTop: "87px"}}>
+                <label style={{fontSize:"14px"}}>
+            More Details of this work can be found on my resume 
+            </label>
+            </div>
+              
+        </article>
+        <div className="container portfolio__container">
+
+        <article className='portfolio__item'>
+            <div className="portfolio__item-image">
+                <img src={ehryourway} alt="" style={{height:"161px"}} />
+            </div>
+            <h3 style={{fontSize:"17px"}}>KJ Systems Pvt Ltd., Hyderabad, India</h3>
+            <small className='text-light' style={{fontSize:"15px"}}>Front End Developer & UI/UX Designer  </small><br/>
+            <small className='text-light'>Project 1: EHR Your Way <br/>Client: Medical Office Solutions  </small><br/>
+            <small className='text-light'>Project 2: APIT Portal Application <br/>Client: Andhra Pradesh Government   </small>
+
             <div className="portfolio__item-cta">
-              <a href="https://github.com/Thakshila-Bandara/my-resume" target="_blank" rel='noreferrer' className='btn'>Github</a>
-              <a href="https://thakshila-bandara.github.io/my-resume/" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>  
+                <label style={{fontSize:"14px"}}>
+            More Details of this work can be found on my resume 
+            </label>
             </div>
-            
-        </article> */}
+              
+        </article>
       </div>
     </section>
   )

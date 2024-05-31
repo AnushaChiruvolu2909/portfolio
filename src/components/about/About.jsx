@@ -21,32 +21,6 @@ const About = () => {
 
           <div className="about__content">
             <div className="about__cards">
-
-              {/* <article className='about__card'>
-                  <GiGraduateCap className='about__icon'/>
-                  <h5>Degree</h5>
-                  <small>Bachelor of Technology <br /><i>JNTU College of Engineering, Hyderabad, Telangana, India.</i></small>
-              </article> */}
-
-              {/* <article className='about__card'>
-                  <BsBookmarkStar className='about__icon'/>
-                  <h5>Current GPA</h5>
-                  <small>8</small>
-              </article>
-
-              <article className='about__card'>
-                  <TfiWorld className='about__icon'/>
-                  <h5>Domains</h5>
-                  <small>
-                    <ul>
-                      <li>Net Centric</li>
-                      <li>Mobile Applications</li>
-                    </ul>
-                  </small>
-              </article> */}
-
-              
-
             </div>
             <p style={{fontStyle:"oblique"}}>
             "As a Senior Front-End Developer with over 9 years of experience, I specialize in creating dynamic, high-performance web applications. My expertise encompasses HTML5, CSS3, JavaScript, Angular, and React, allowing me to deliver engaging and user-friendly interfaces that enhance user experience and meet business objectives. <br/>
